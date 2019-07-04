@@ -76,39 +76,38 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/22-on-time.xhtml" id="22-on-time.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/23-on-good-and-evil.xhtml" id="23-on-good-and-evil.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/24-on-prayer.xhtml" id="24-on-prayer.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/25-on-pleasure.xhtml" id="25-on-pleasure.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/26-on-beauty.xhtml" id="26-on-beauty.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/27-on-religion.xhtml" id="27-on-religion.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/28-on-death.xhtml" id="28-on-death.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/29-the-farewell.xhtml" id="29-the-farewell.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/mimetype" id="mimetype" media-type="application/xhtml+xml"/>
+		<item href="text/on-beauty.xhtml" id="on-beauty.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-buying-and-selling.xhtml" id="on-buying-and-selling.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-children.xhtml" id="on-children.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-clothes.xhtml" id="on-clothes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-crime-and-punishment.xhtml" id="on-crime-and-punishment.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-death.xhtml" id="on-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-eating-and-drinking.xhtml" id="on-eating-and-drinking.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-freedom.xhtml" id="on-freedom.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-friendship.xhtml" id="on-friendship.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-giving.xhtml" id="on-giving.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-good-and-evil.xhtml" id="on-good-and-evil.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-houses.xhtml" id="on-houses.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-joy-and-sorrow.xhtml" id="on-joy-and-sorrow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-laws.xhtml" id="on-laws.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-love.xhtml" id="on-love.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-marriage.xhtml" id="on-marriage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-pain.xhtml" id="on-pain.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-pleasure.xhtml" id="on-pleasure.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-prayer.xhtml" id="on-prayer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-reason-and-passion.xhtml" id="on-reason-and-passion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-religion.xhtml" id="on-religion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-self-knowledge.xhtml" id="on-self-knowledge.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-talking.xhtml" id="on-talking.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-teaching.xhtml" id="on-teaching.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-time.xhtml" id="on-time.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-work.xhtml" id="on-work.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-coming-of-the-ship.xhtml" id="the-coming-of-the-ship.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-farewell.xhtml" id="the-farewell.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
@@ -117,35 +116,34 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
-		<itemref idref="22-on-time.xhtml"/>
-		<itemref idref="23-on-good-and-evil.xhtml"/>
-		<itemref idref="24-on-prayer.xhtml"/>
-		<itemref idref="25-on-pleasure.xhtml"/>
-		<itemref idref="26-on-beauty.xhtml"/>
-		<itemref idref="27-on-religion.xhtml"/>
-		<itemref idref="28-on-death.xhtml"/>
-		<itemref idref="29-the-farewell.xhtml"/>
-		<itemref idref="mimetype"/>
-		<itemref idref="on-buying-and-selling.xhtml"/>
-		<itemref idref="on-children.xhtml"/>
-		<itemref idref="on-clothes.xhtml"/>
-		<itemref idref="on-crime-and-punishment.xhtml"/>
-		<itemref idref="on-eating-and-drinking.xhtml"/>
-		<itemref idref="on-freedom.xhtml"/>
-		<itemref idref="on-friendship.xhtml"/>
-		<itemref idref="on-giving.xhtml"/>
-		<itemref idref="on-houses.xhtml"/>
-		<itemref idref="on-joy-and-sorrow.xhtml"/>
-		<itemref idref="on-laws.xhtml"/>
+		<itemref idref="the-coming-of-the-ship.xhtml"/>
 		<itemref idref="on-love.xhtml"/>
 		<itemref idref="on-marriage.xhtml"/>
-		<itemref idref="on-pain.xhtml"/>
-		<itemref idref="on-reason-and-passion.xhtml"/>
-		<itemref idref="on-self-knowledge.xhtml"/>
-		<itemref idref="on-talking.xhtml"/>
-		<itemref idref="on-teaching.xhtml"/>
+		<itemref idref="on-children.xhtml"/>
+		<itemref idref="on-giving.xhtml"/>
+		<itemref idref="on-eating-and-drinking.xhtml"/>
 		<itemref idref="on-work.xhtml"/>
-		<itemref idref="the-coming-of-the-ship.xhtml"/>
+		<itemref idref="on-joy-and-sorrow.xhtml"/>
+		<itemref idref="on-houses.xhtml"/>
+		<itemref idref="on-clothes.xhtml"/>
+		<itemref idref="on-buying-and-selling.xhtml"/>
+		<itemref idref="on-crime-and-punishment.xhtml"/>
+		<itemref idref="on-laws.xhtml"/>
+		<itemref idref="on-freedom.xhtml"/>
+		<itemref idref="on-reason-and-passion.xhtml"/>
+		<itemref idref="on-pain.xhtml"/>
+		<itemref idref="on-self-knowledge.xhtml"/>
+		<itemref idref="on-teaching.xhtml"/>
+		<itemref idref="on-friendship.xhtml"/>
+		<itemref idref="on-talking.xhtml"/>
+		<itemref idref="on-time.xhtml"/>
+		<itemref idref="on-good-and-evil.xhtml"/>
+		<itemref idref="on-prayer.xhtml"/>
+		<itemref idref="on-pleasure.xhtml"/>
+		<itemref idref="on-beauty.xhtml"/>
+		<itemref idref="on-religion.xhtml"/>
+		<itemref idref="on-death.xhtml"/>
+		<itemref idref="the-farewell.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
