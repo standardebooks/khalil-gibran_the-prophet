@@ -38,7 +38,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of prose poetry on themes such as love, beauty and religion.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Prophet&lt;/i&gt; is Lebanese-American writer Khalil Gibran’s best known work. A collection of 26 short fables or prose, it touches upon a number of universal themes, including love, work, marriage, beauty, and death. First published in 1923, &lt;i&gt;The Prophet&lt;/i&gt; has never been out of print since.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Prophet&lt;/i&gt; is Lebanese-American writer Khalil Gibran’s best known work. In the book, the prophet Almustafa is returning home after 12 years in the fictional city of Orphalese. Before he boards his ship, he speaks to the people of Orphalese on a number of universal themes such as love, work, marriage, beauty, and death, which form this collection of 26 short fables or prose poetry. First published in 1923, &lt;i&gt;The Prophet&lt;/i&gt; has never been out of print since, and has been translated into over a hundred languages.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/58585</dc:source>
