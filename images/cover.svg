@@ -6,18 +6,18 @@
 			fill-opacity: .75;
 		}
 
- 		text{
+		text{
 			fill: #fff;
-			font-family: League Spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
 
- 		.title{
+		.title{
 			font-size: 93.56725311px;
 		}
 
- 		.author{
+		.author{
 			font-size: 46.7840004px;
 		}
 	</style>
