@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="*.xhtml">
+		<ignore>
+			<code>t-036</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
