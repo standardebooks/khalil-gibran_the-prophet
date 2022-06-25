@@ -35,6 +35,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85107567</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of prose poetry on themes such as love, beauty, and religion.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Prophet&lt;/i&gt; is Lebanese-American writer &lt;a href="https://standardebooks.org/ebooks/khalil-gibran"&gt;Khalil Gibran’s&lt;/a&gt; best known work. In the book, the prophet Almustafa is returning home after 12 years in the fictional city of Orphalese. Before he boards his ship, he speaks to the people of Orphalese on a number of universal themes such as love, work, marriage, beauty, and death, which form this collection of 26 short fables or prose poetry. First published in 1923, &lt;i&gt;The Prophet&lt;/i&gt; has never been out of print since, and has been translated into over a hundred languages.&lt;/p&gt;
