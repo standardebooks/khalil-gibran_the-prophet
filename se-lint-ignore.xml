@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="*.xhtml">
+	<file path="on-beauty.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-019</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+	</file>
+	<file path="on-buying-and-selling.xhtml">
 		<ignore>
 			<code>t-003</code>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
@@ -10,7 +20,65 @@
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 		<ignore>
-			<code>t-042</code>
+			<code>y-019</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+	</file>
+	<file path="on-eating-and-drinking.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+		<ignore>
+			<code>t-051</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-019</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+	</file>
+	<file path="on-prayer.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+		<ignore>
+			<code>t-051</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-019</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+	</file>
+	<file path="on-talking.xhtml">
+		<ignore>
+			<code>y-003</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+	</file>
+	<file path="on-work.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-019</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+	</file>
+	<file path="the-farewell.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+		<ignore>
+			<code>t-051</code>
+			<reason>Breaks in quotations are a matter of prose style.</reason>
+		</ignore>
+		<ignore>
+			<code>y-019</code>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 	</file>
