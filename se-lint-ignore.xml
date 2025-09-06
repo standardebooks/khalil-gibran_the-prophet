@@ -6,11 +6,11 @@
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 		<ignore>
-			<code>y-019</code>
+			<code>t-051</code>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 		<ignore>
-			<code>t-051</code>
+			<code>y-019</code>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 	</file>
@@ -68,11 +68,11 @@
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 		<ignore>
-			<code>y-019</code>
+			<code>t-051</code>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 		<ignore>
-			<code>t-051</code>
+			<code>y-019</code>
 			<reason>Breaks in quotations are a matter of prose style.</reason>
 		</ignore>
 	</file>
